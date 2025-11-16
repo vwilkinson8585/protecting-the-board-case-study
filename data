@@ -1,1 +1,10 @@
 data/player_entry_data.csv
+EntryID,UserID,Sport,EntryType,Stake,Time,Legs
+E001,U101,NBA,Power5,50,7:02 PM,"Vince Carter O18.5 PTS; Jason Kidd O9.5 AST; Ben Wallace O11.5 REB; Ray Allen O3.5 3PM; Tracy McGrady O27.5 P+A"
+E002,U142,NBA,Power5,100,7:03 PM,"IDENTICAL TO E001"
+E003,U176,NBA,Power5,25,7:03 PM,"IDENTICAL TO E001"
+E004,U220,NFL,Flex3,75,12:19 PM,"Trent Richardson O72.5 RY; Roddy White O54.5 RY; Tony Gonzalez O5.5 REC"
+E005,U311,NFL,Power3,150,12:20 PM,"Trent Richardson O13.5 FS; Tony Gonzalez U68.5 RY; Eddie Lacy O61.5 RY"
+E006,U145,NBA,Power4,40,8:10 PM,"Vince Carter O18.5 PTS; Jason Kidd O9.5 AST; Richard Jefferson O3.5 3PM; Kenyon Martin U2.5 STL+BLK"
+E007,U510,NFL,Power2,200,3:31 PM,"Marshawn Lynch O59.5 RY; Michael Vick O264.5 PY"
+E008,U511,NFL,Power3,100,3:32 PM,"Marshawn Lynch O59.5 RY; Michael Vick O264.5 PY; Tony Gonzalez O18.5 FS"
