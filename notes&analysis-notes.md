@@ -87,3 +87,4 @@ Operational Recommendations (from the deck)
 Summary
 - This project is my way of showing how I naturally break down entries, read behavior, and think about protecting the board.
 - I enjoy catching the small details most people ignore and turning them into clear actions for the ops team.
+I hope this shows a human element, tranparancy, my will to be in this industry
